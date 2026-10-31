@@ -1,0 +1,19 @@
+{
+  "name": "nandya-muhammad-daffa-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website of Nandya Muhammad Daffa - Replicated from Canva",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "portfolio",
+    "canva",
+    "system-information",
+    "machine-learning"
+  ],
+  "author": "Nandya Muhammad Daffa",
+  "license": "ISC"
+}
+
